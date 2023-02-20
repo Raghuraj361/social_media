@@ -26,7 +26,7 @@ const data = [
     {
         id : 4,
         Image : "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        Description : "holi fastival",
+        Description : "holi festival",
         PostedBy : "Arun sharma",
         DatePoster : "January 17, 2023",
         UserImg : "https://images.pexels.com/photos/716411/pexels-photo-716411.jpeg?auto=compress&cs=tinysrgb&w=600",
